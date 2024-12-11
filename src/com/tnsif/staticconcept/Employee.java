@@ -1,4 +1,3 @@
-
 package com.tnsif.staticconcept;
 
 /**
@@ -6,9 +5,10 @@ package com.tnsif.staticconcept;
  * @author sys
  */
 public class Employee {
+
     private String ename;
     private int eid;
-    
+
     static String ecompany = "TNSIF";
 
     public String getEname() {
@@ -37,6 +37,4 @@ public class Employee {
         return "Employee{" + "ename=" + ename + ", eid=" + eid + '}';
     }
 
-    
-    
 }
