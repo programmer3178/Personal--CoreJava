@@ -1,4 +1,3 @@
-
 package arrays;
 
 /**
@@ -7,9 +6,8 @@ package arrays;
  */
 public class Arrays {
 
-    
     public static void main(String[] args) {
-       //Method1- Array Creation
+        //Method1- Array Creation
         /*int num[] = {3, 7, 2, 4}; //num- Reference variable(object) 
         num[1] = 5; //Updating the value
         for(int i : num) //Enhanced for loop
@@ -27,6 +25,4 @@ public class Arrays {
         }
 
     }
-    }
-    
-
+}
